@@ -7,7 +7,7 @@
 
 - 📫 Feel free to contact me at **lespinozahuiman@gmail.com**.
 
-- 🌎 Fluent in **Spanish** and improving my **English** skills every day.
+- 🌎 Fluent in **Spanish** and improving my **English** skills every day. [📄 English B2 Certificate](https://cert.efset.org/t7zTSn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
