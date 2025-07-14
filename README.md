@@ -3,7 +3,7 @@
 
 - 🔭 I’m a **Software Developer** with experience working in agile teams using **Scrum methodology**, participating in sprint planning, daily stand-ups, and reviews.
 
-- 🌱 I’m currently learning **React with Next.js**.
+- 🌱 I’m currently learning **Hexagonal Architecture**.
 
 - 📫 Feel free to contact me at **lespinozahuiman@gmail.com**.
 
