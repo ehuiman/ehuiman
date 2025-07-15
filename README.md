@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Espinoza</h1>
 <h3 align="center">Thanks for visiting my GitHub profile, it's great to meet you here!</h3>
 
-- 🔭 I’m a **Software Developer** with experience working in agile teams using **Scrum methodology**, participating in sprint planning, daily stand-ups, and reviews.
+- 🔭 I’m a **Software Engineer** with experience working in agile teams using **Scrum methodology**, participating in sprint planning, daily stand-ups, and reviews.
 
 - 🌱 I’m currently learning **Hexagonal Architecture**.
 
